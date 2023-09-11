@@ -19,7 +19,7 @@ We need more developers for build and maintain new programs.
 About apply, please create issue on [Recruit page](https://github.com/Undawn-Programs/recruit).
 
 ## Released
-- [ ] Automatic instrument player (Script)
+- [x] Automatic instrument player (Script)
 
 ## Planned
 - [ ] Automatic instrument player (GUI)
